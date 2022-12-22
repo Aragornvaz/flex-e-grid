@@ -54,6 +54,12 @@ body {
     align-items: center;
 }
 
+.menu-lateral__link--ativo {
+    color: #ffffff;
+    padding-left: 56px;
+    border-left: 8px solid #ffffff;
+}
+
 .menu-lateral__link::before {
     content: "\e900";
     width: 24px;
