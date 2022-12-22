@@ -38,6 +38,13 @@ body {
     background-color: #15191C;
     width: 75vw;
     height: 100vh;
+
+    position: absolute;
+    left: -100;
+}
+
+.menu-lateral--ativo{
+    left: 0;
 }
 
 .menu-lateral__logo {
