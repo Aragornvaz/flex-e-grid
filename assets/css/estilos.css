@@ -113,6 +113,11 @@ body {
     font-weight: 700;
 }
 
+.tiluto-secao {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
 .cartao {
     width: 100%;
     border-radius: 15px;
@@ -187,6 +192,12 @@ body {
 .cartao__botao--destaque::before {
     margin-right: 8px;
 }
+
+.secao {
+    display: grid;
+    gap: 18px;
+}
+
 
 
 
