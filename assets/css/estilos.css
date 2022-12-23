@@ -120,11 +120,18 @@ body {
 
 .cartao__conteudo {
     padding: 16px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.cartao__botao--destaque {
+    grid-column: span 2;
 }
 
 .cartao__titulo {
     font-size: 1.2rem;
     font-weight: 700;
+    grid-column: span 2;
 }
 
 .cartao__perfil {
@@ -166,6 +173,7 @@ body {
 
 .cartao__botao--destaque {
     width: 100%;
+    grid-column: span 2;
 }
 
 .cartao__botao--destaque::before {
