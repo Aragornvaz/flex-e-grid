@@ -48,7 +48,7 @@ body {
         background-color: #1D232A;
         display: grid;
         column-gap: 32px;
-        grid-template-columns: ifr auto;
+        grid-template-columns: 1fr auto;
         padding: 16px 60px;
         height: 80px;
         box-sizing: border-box;
@@ -167,7 +167,7 @@ body {
         position: static;
         width: 200px;
         grid-column: 1;
-        grid-row: 1;
+        grid-row: 1 / span 2;
     }
 }
 
@@ -229,6 +229,7 @@ body {
 .cartao__perfil {
     color: #95999C;
     font-size: 0.9rem;
+    grid-column: span 2;
 }
 
 .cartao__info {
