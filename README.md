@@ -1,3 +1,21 @@
+<p align="center"> <img src="assets/Curso-css-flexbox-grid.png" alt="CSS: Dispondo elementos com Flexbox e Grid"> </p>
+
+<hr>
+
+<p align="center"> <img src="https://github.com/MonicaHillman/aluraplus/blob/aula04/img/Logo.png?raw=true" alt="Logo da alura plus"> </p>
+<p align="center">Criando um site utilizando elementos com Flexbox e Grid</p>
+
+## Tecnologias
+* HTML
+* CSS
+* JavaScript
+
+## Screenshots
+![Screenshot da tela inicial do Site](assets/Screeshots.png)
+
+
+
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
